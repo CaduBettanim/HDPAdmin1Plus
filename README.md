@@ -114,3 +114,4 @@ Exit from root on the ambari node – node1
 # exit
 $
 ```
+### Now you are ready for the next lab "Installing HDP"
