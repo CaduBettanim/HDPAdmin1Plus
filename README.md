@@ -25,6 +25,7 @@ Credentials will be provided for these services by the instructor:
 
 - Make sure to click "Save" on the session page before logging in
 
+## Now you are ready to proceed to the Installing HDP Lab
 ### To connect from Linux/MacOSX laptop
 
 - SSH into Ambari node of your cluster using below steps:
