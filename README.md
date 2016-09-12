@@ -18,7 +18,7 @@ Credentials will be provided for these services by the instructor:
 
 ### To connect using Putty from Windows laptop
 
-- Download ppk from [here](https://github.com/HortonworksUniversity/HDPAdmin1Plus/raw/master/training-keypair.ppk)
+- Download ppk from [here](https://github.com/HortonworksUniversity/HDPAdmin1Plus/master/training-keypair.ppk)
 - Use putty to connect to your node using the ppk key:
   - Connection > SSH > Auth > Private key for authentication > Browse... > Select training-keypair.ppk
 ![Image](https://raw.githubusercontent.com/HortonworksUniversity/HDPAdmin1Plus/master/screenshots/putty.png)
